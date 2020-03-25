@@ -1,6 +1,7 @@
 # Credits
 ## Team
 * Andrea Coletta
+* Prof. Avv. Federica De Stefani
 * Annalisa Milani
 * Maurizio Natalia
 * Mauro Piva
